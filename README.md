@@ -1,19 +1,22 @@
 # 👩🏻‍💻 Sstuti D Mehra
 
 
-🗽 **Data Science Graduate Student @ Columbia University  
+🗽 **M.S. Data Science @ Columbia University  
 💻 Student Researcher @ Northeast Big Data Innovation Hub  
 🧬 Data Science Research Intern @ Llanos Lab**  
 
 ---
 
 ## 📚 About Me
-
-I'm a Master’s in Data Science student at Columbia University, graduating in December 2025. My journey in data spans across research and industry, currently contributing to health analytics research at **Llanos Lab**, Columbia Mailman School of Public Health, and data science initiatives at the **Northeast Big Data Innovation Hub**.
-
-Previously, I worked as an **R&D Intern at Reckitt**, focusing on digitization and simulation, and as a **Data Science Intern at Emirates**, applying data analytics to solve business challenges at scale.
-
-My core interests lie in **Agentic AI**, **LLMs**, **Data Analytics**, and **Health-focused Machine Learning**. I’m passionate about applying data science to build responsible, impactful solutions, particularly in **healthcare and finance**.
+ 
+- 🔬 Currently contributing to:
+  - **Health analytics research** at **Llanos Lab**, Columbia Mailman School of Public Health  
+  - **Data science initiatives** at the **Northeast Big Data Innovation Hub**  
+- 💼 Previously:
+  - **R&D Intern at Reckitt** – focused on digitization and simulation  
+  - **Data Science Intern at Emirates** – applied analytics to business problems  
+- 🤖 Interests: **Agentic AI**, **LLMs**, **Data Analytics**, **Health-focused ML**  
+- 🌍 Passionate about applying data science for impact in **healthcare** and **finance**
 
 ---
 
