@@ -8,6 +8,7 @@
 ---
 
 ## 📚 About Me
+<img align="right" src="Wavy_Bus-04_Single-08.jpg" width="250px">
  
 - 🔬 Currently contributing to:
   - **Health analytics research** at **Llanos Lab**, Columbia Mailman School of Public Health  
