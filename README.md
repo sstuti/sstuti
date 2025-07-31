@@ -24,7 +24,7 @@
 ## 🧠 Research & Publications
 
 - **Tumor Detection Using Deep Learning and Explainable AI**  
-  Published in *IEEE*
+  Published in *IEEE*  
   [Read the paper →](https://ieeexplore.ieee.org/document/10864458)
 
 - **Algorithmic Trading using Technical Indicators and Sentiment Analysis**  
